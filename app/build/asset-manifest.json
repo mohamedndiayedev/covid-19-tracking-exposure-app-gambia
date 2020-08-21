@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ee658f7d.chunk.js",
+    "main.js.map": "/static/js/main.ee658f7d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.beb81823.js",
+    "runtime-main.js.map": "/static/js/runtime-main.beb81823.js.map",
+    "static/js/2.f6035103.chunk.js": "/static/js/2.f6035103.chunk.js",
+    "static/js/2.f6035103.chunk.js.map": "/static/js/2.f6035103.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.323d38a692737b7f66cb4c8cab2052a4.js": "/precache-manifest.323d38a692737b7f66cb4c8cab2052a4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.f6035103.chunk.js.LICENSE.txt": "/static/js/2.f6035103.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/static/media/getFetch.013f0b90.cjs",
+    "static/media/keep-distance.png": "/static/media/keep-distance.d6ee1757.png",
+    "static/media/logo.svg": "/static/media/logo.19b51d7a.svg",
+    "static/media/report-icon.png": "/static/media/report-icon.84b9f66d.png",
+    "static/media/virus-icon.png": "/static/media/virus-icon.16fe9da9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beb81823.js",
+    "static/js/2.f6035103.chunk.js",
+    "static/js/main.ee658f7d.chunk.js"
+  ]
+}
