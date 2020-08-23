@@ -200,10 +200,12 @@ class App extends React.Component {
           onChange={this.onChangeTab.bind(this)}
           showLabels
         >
+            
           <BottomNavigationAction label={<Translation>{t => t('checkpointsTab')}</Translation>} value='checkpoints' icon={<CropFree />} />
           <BottomNavigationAction label=<Translation>{t => t('statusTab')}</Translation> value='status' icon={<Face />} />
           <BottomNavigationAction label=<Translation>{t => t('reportTab')}</Translation> value='report' icon={<ReportIcon />} />
-        </BottomNavigation>
+        </BottomNavigation><br>
+<p>Powered by ANK Analytics</p>
         <SwipeableDrawer
           open={isDrawerOpen}
           onOpen={() => {}}
