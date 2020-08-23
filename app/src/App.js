@@ -156,7 +156,7 @@ class App extends React.Component {
                 aria-label='open drawer'
                 onClick={this.openDrawer.bind(this)}
               >
-                <img src={logo} width={30} height={30} style={{ width: 30 }} />
+                <img src={logo} width={30} height={70} style={{ width: 70 }} /> &nbsp;ANK Analytics - Covid-19 Exposure App (REPUBLIC OF THE GAMBIA)
               </IconButton>
               <Typography variant='h6' component='h1' style={{ flexGrow: 1, fontFamily: '"Open Sans", sans-serif', fontWeight: 'bold' }}>
                 {process.env.REACT_APP_NAME}
