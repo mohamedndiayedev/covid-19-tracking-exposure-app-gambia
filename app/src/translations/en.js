@@ -10,7 +10,7 @@ module.exports = {
     'reportTab': 'Report',
     'slogan': 'Be safe and keep track.',
     'welcomeMessage': `Thank you for participating in the effort to reduce the spread of COVID-19. You may scan a checkpoint using the button below.`,
-    'learnMoreText': `You may check your exposure status at any time through this web app powered by ANK ANALYTIS - GAMBIA. Learn more about ${appName} by visiting `,
+    'learnMoreText': `You may check your exposure status at any time through this web app powered by ANK ANALYTIS - GAMBIA.`,
     'joinCheckpointButton': 'Scan a Checkpoint',
     'noCameraPermissionMessage': "This app does not have permission to access your device's camera. Instead, you may take a picture of the QR code.",
     'takePictureButton': 'Take a picture',
