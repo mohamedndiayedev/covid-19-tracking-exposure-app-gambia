@@ -2,7 +2,7 @@ const appName = process.env.REACT_APP_NAME
 
 module.exports = {
   'translation': {
-    'menuAboutButton': 'About',
+    'menuAboutButton': 'About ANK Analytics',
     'menuAdminButton': 'Admin',
     'menuCheckpointButton': 'Checkpoint',
     'checkpointsTab': 'Checkpoints',
