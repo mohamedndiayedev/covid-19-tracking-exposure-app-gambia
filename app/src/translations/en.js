@@ -11,6 +11,7 @@ module.exports = {
     'slogan': 'Be safe and keep track.',
     'welcomeMessage': `Thank you for participating in the effort to reduce the spread of COVID-19. You may scan a checkpoint using the button below.`,
     'learnMoreText': `You may check your exposure status at any time through this web app. Learn more about ${appName} by visiting `,
+    'learnMoreText': `Powered by ANK ANALICS - GAMBIA `,
     'joinCheckpointButton': 'Scan a Checkpoint',
     'noCameraPermissionMessage': "This app does not have permission to access your device's camera. Instead, you may take a picture of the QR code.",
     'takePictureButton': 'Take a picture',
